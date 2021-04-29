@@ -1,3 +1,11 @@
+Nama : Ira Dwita Syafitri 
+
+Kelas : D4 TI 3A
+
+NPM : 1184024
+
+
+
 scikit-fuzzy
 ============
 
